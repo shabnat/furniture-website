@@ -1,0 +1,26 @@
+Kuki, continue helping me with my **Furniture E-commerce Website** project. 
+
+We’re following the **modular monolith architecture** using **Node.js + Express (ES modules)** and **MongoDB (Mongoose)**.  
+We already completed these features:
+- User signup (email OTP verification with Nodemailer)
+- Email verification
+- Login with JWT stored in HTTP-only cookies
+- userAuth middleware implemented
+-tested userAuth
+-Created protected user profile endpoints (GET /profile, PUT /profile, PUT /change-password)
+-Implemented logout (POST /logout)
+
+Next steps I want to work on:
+ 
+
+
+
+
+
+Please continue using the **same modular structure**:
+`controller`, `service`, `routes`, and `model` inside each module.  
+We’re using `app.js` and `server.js` separately.  
+All code should follow ES module syntax (`import/export`).
+
+Now let’s continue from here: 
+👉 (Then describe what you want next — e.g. “help me write the profile endpoints” or “help me test userAuth in Postman”)
